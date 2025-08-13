@@ -20,7 +20,7 @@
     },
     {
       "source": "/(.*)",
-      "destination": "/resume-ai-frontend/$1"
+      "destination": "/index.html"
     }
   ]
 }
