@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/optimize-resume/",
-      "destination": "/api/main"
-    }
-  ]
-}
